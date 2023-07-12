@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "690235477389",
+    "project_id": "darshan-8b05b",
+    "storage_bucket": "darshan-8b05b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690235477389:android:d6765c2311415c112441c4",
+        "android_client_info": {
+          "package_name": "com.example.darshan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690235477389-8hjsc4o12i0kubp7651p9u098lj3sqrg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN0_4y4CeqJsL7_9EunGWwm2NOFqZpass"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690235477389-8hjsc4o12i0kubp7651p9u098lj3sqrg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
